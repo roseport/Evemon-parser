@@ -1,0 +1,43 @@
+﻿<?xml version="1.0"?>
+<plan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="SP3b" owner="481980ad-ae6c-444b-a03f-3f3c3e9ca1e5" revision="4595">
+  <sorting criteria="None" order="None" groupByPriority="false" />
+  <entry skillID="3301" skill="Small Hybrid Turret" level="5" priority="1" type="Planned">
+    <notes>Light Neutron Blaster II, Small Blaster Specialization</notes>
+  </entry>
+  <entry skillID="12210" skill="Small Blaster Specialization" level="1" priority="1" type="Planned">
+    <notes>Light Neutron Blaster II</notes>
+  </entry>
+  <entry skillID="3328" skill="Gallente Frigate" level="5" priority="1" type="Planned">
+    <notes>Enyo</notes>
+  </entry>
+  <entry skillID="3392" skill="Mechanics" level="5" priority="1" type="Prerequisite">
+    <notes>Enyo, Assault Frigates</notes>
+  </entry>
+  <entry skillID="12095" skill="Assault Frigates" level="1" priority="1" type="Planned">
+    <notes>Enyo</notes>
+  </entry>
+  <entry skillID="12095" skill="Assault Frigates" level="2" priority="3" type="Planned">
+    <notes>Assault Frigates</notes>
+  </entry>
+  <entry skillID="12095" skill="Assault Frigates" level="3" priority="3" type="Planned">
+    <notes>Assault Frigates</notes>
+  </entry>
+  <entry skillID="12095" skill="Assault Frigates" level="4" priority="3" type="Planned">
+    <notes>Assault Frigates</notes>
+  </entry>
+  <entry skillID="26253" skill="Armor Rigging" level="2" priority="3" type="Planned">
+    <notes>Armor Rigging</notes>
+  </entry>
+  <entry skillID="26253" skill="Armor Rigging" level="3" priority="3" type="Planned">
+    <notes>Armor Rigging</notes>
+  </entry>
+  <entry skillID="12210" skill="Small Blaster Specialization" level="2" priority="3" type="Planned">
+    <notes>Small Blaster Specialization</notes>
+  </entry>
+  <entry skillID="12210" skill="Small Blaster Specialization" level="3" priority="3" type="Planned">
+    <notes>Small Blaster Specialization</notes>
+  </entry>
+  <entry skillID="12210" skill="Small Blaster Specialization" level="4" priority="3" type="Planned">
+    <notes>Small Blaster Specialization</notes>
+  </entry>
+</plan>
